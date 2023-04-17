@@ -29,6 +29,16 @@
                   "SongYear": {"S": "1992"}
                 }
             }
-        }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Iron Maiden"},
+                  "SongTitle": {"S": "Hallowed Be Thy Name"},
+                  "AlbumTitle": {"S": "Hallowed Be Thy Name"},
+                  "SongYear": {"S": "1993"}
+                }
+            }
+        },
       ]
 }
